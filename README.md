@@ -4,4 +4,4 @@ Meu nome é Analia Karollyna
 
 -Estou estudando no [Alura](https://www.alura.com.br)
   
-![image](https://github.com/user-attachments/assets/faf77a6c-61b0-4346-a9f1-c7c320fa2fac)
+![image](https://github.com/user-attachments/assets/d39dd695-e19e-44e3-aca3-92895f56515d)
